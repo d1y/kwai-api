@@ -1,0 +1,28 @@
+{
+  "name": "kwai-api",
+  "version": "0.0.1",
+  "description": "快手web-api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d1y/kwai-api.git"
+  },
+  "keywords": [
+    "kuaishou",
+    "api"
+  ],
+  "author": "d1y <chenhonzhou@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/d1y/kwai-api/issues"
+  },
+  "homepage": "https://github.com/d1y/kwai-api#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "cheerio": "^1.0.0-rc.3",
+    "get-urls": "^9.1.0"
+  }
+}

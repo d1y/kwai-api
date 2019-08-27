@@ -1,0 +1,1 @@
+const fontCode = require('./lib/decode_font')
